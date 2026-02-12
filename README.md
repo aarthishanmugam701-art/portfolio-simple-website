@@ -1,5 +1,9 @@
-# portfolio-simple-websitePortfolio Website
+# My Portfolio Website
 
+The Welcome Page serves as the landing page of the portfolio, greeting visitors and introducing my profile while guiding them to explore the Home and Contact pages.
+
+
+### Page
 
 This is my personal portfolio website developed using **HTML and basic CSS**.
 The website is designed to present my profile in a simple and clean layout.
